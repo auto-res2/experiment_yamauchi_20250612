@@ -1,8 +1,15 @@
 {
-  "base_queries": [
-    "LLM prompting with structured text"
+  "_order": [
+    "retrieve_paper_from_query"
   ],
-  "add_queries": [
-    "large language models"
-  ]
+  "retrieve_paper_from_query": {
+    "github_repository": "auto-res2/experiment_yamauchi_20250612",
+    "branch_name": "base-branch-3",
+    "research_file_path": ".research/research_history.json",
+    "new_output": {
+      "base_queries": [
+        "LLM prompting with structured text"
+      ]
+    }
+  }
 }
