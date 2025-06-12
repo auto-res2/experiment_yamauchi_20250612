@@ -1,5 +1,8 @@
 {
   "base_queries": [
     "LLM prompting with structured text"
+  ],
+  "add_queries": [
+    "large language models"
   ]
 }
